@@ -8,7 +8,7 @@ This repository contains data analysis projects focusing on Airbnb activity in t
 ### Seattle Airbnb Open Data
 
 #### Context
-Airbnb has transformed the way people travel by providing a platform for hosts to offer unique, personalized accommodations to guests since 2008. The dataset provided here pertains to homestay listings in Seattle, WA, detailing their activity and characteristics.
+Airbnb has transformed the way people travel by providing a platform for hosts to offer unique, personalised accommodations to guests since 2008. The dataset provided here pertains to homestay listings in Seattle, WA, detailing their activity and characteristics.
 
 #### Data Description
 The Seattle dataset includes the following details:
@@ -37,19 +37,6 @@ This dataset is also part of the Airbnb Inside initiative, available [here](http
 
 ### Prerequisites
 To work with these datasets, ensure you have Python installed along with libraries like pandas, numpy, and matplotlib for data manipulation and visualization.
-
-### Installation
-Clone this repository using:
-```
-git clone 
-```
-
-### Running Analysis (yet)
-Navigate to the project directory and run the Jupyter notebooks provided for each city. These notebooks contain detailed analysis and visualization scripts:
-```
-cd [project-directory]
-jupyter notebook
-```
 
 ## Contributing
 Contributions to this analysis are welcome. You can contribute by improving the analysis, adding new features, or by fixing bugs. Please fork the repository and submit a pull request with your changes.
